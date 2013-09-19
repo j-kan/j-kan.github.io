@@ -1,0 +1,1405 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"topicL",
+				"topicLessons"
+			],
+			[
+				"topicLe",
+				"topicLessonsDetails"
+			],
+			[
+				"top",
+				"topicLessonsDetails"
+			],
+			[
+				"topicLessons",
+				"TopicLessonsDetails"
+			],
+			[
+				"rece",
+				"recentSkills"
+			],
+			[
+				"_auto",
+				"_autoCompleteCreate"
+			],
+			[
+				"bo",
+				"body-text-indent-horiz"
+			],
+			[
+				"_pr",
+				"_promise"
+			],
+			[
+				"cla",
+				"classSnapshot"
+			],
+			[
+				"in",
+				"initialize"
+			],
+			[
+				"seriesBu",
+				"seriesBucketFromTopic"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"fo",
+				"font-style"
+			],
+			[
+				"rea",
+				"reading"
+			],
+			[
+				"sk",
+				"skills"
+			],
+			[
+				"name",
+				"nameSortTransformer"
+			],
+			[
+				"sortedM",
+				"sortedMembersWithCurrentTopic"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"getGroup",
+				"getGroupSetId"
+			],
+			[
+				"getG",
+				"getGroupSetId"
+			],
+			[
+				"ins",
+				"instructionCompleted"
+			],
+			[
+				"studen",
+				"studentSnapshot"
+			],
+			[
+				"stu",
+				"studentInfo"
+			],
+			[
+				"border-bottom",
+				"border-bottom-color"
+			],
+			[
+				"header",
+				"header-line-height"
+			],
+			[
+				"na",
+				"names-width"
+			],
+			[
+				"he",
+				"header-vmargin"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"col",
+				"columnY"
+			],
+			[
+				"svg",
+				"svgDataClass"
+			],
+			[
+				"ini",
+				"initialPlacementSeries"
+			],
+			[
+				"ad",
+				"administrationDate"
+			],
+			[
+				"templ",
+				"Templates"
+			],
+			[
+				"colu",
+				"columnNames"
+			],
+			[
+				"pro",
+				"process"
+			],
+			[
+				"irea",
+				"ireadv	iRead View"
+			],
+			[
+				"var",
+				"vertical-align"
+			],
+			[
+				"ser",
+				"seriesFromSeriesId"
+			],
+			[
+				"initi",
+				"initialPlacementSeries"
+			],
+			[
+				"Class",
+				"ClassScreener"
+			],
+			[
+				"Dib",
+				"DibelsCorrelation"
+			],
+			[
+				"eff",
+				"effectiveDate"
+			],
+			[
+				"th",
+				"th	Tag"
+			],
+			[
+				"t",
+				"th	Tag"
+			],
+			[
+				"GroupSe",
+				"GroupSetDetail"
+			],
+			[
+				"Gr",
+				"GroupMembers"
+			],
+			[
+				"groupMe",
+				"groupMemberLists"
+			],
+			[
+				"gr",
+				"groupset"
+			],
+			[
+				"enrolled",
+				"enrolledStudents"
+			],
+			[
+				"groups",
+				"groupSetGroups"
+			],
+			[
+				"ren",
+				"renderUngroupedView"
+			],
+			[
+				"upd",
+				"updateButtonStates"
+			],
+			[
+				"ungr",
+				"ungrouped"
+			],
+			[
+				"groupSetDet",
+				"groupSetDetailModelInCache"
+			],
+			[
+				"groupsetgr",
+				"groupSetGroupInCacheChangeHandler"
+			],
+			[
+				"groupSetDe",
+				"groupSetDetailModelInCache"
+			],
+			[
+				"so",
+				"sortType"
+			],
+			[
+				"reject",
+				"rejectUnenrolledStudents"
+			],
+			[
+				"tran",
+				"translateGroup"
+			],
+			[
+				"coreGr",
+				"coreGroupSet"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"cha",
+				"changeEventHandlers"
+			],
+			[
+				"buck",
+				"bucketSelected"
+			],
+			[
+				"bucketSe",
+				"bucketSelectorView"
+			],
+			[
+				"enro",
+				"enrolledStudents"
+			],
+			[
+				"xref",
+				"xrefStudentInfo"
+			],
+			[
+				"mys",
+				"mysqlDefaults"
+			],
+			[
+				"iread",
+				"iRead"
+			],
+			[
+				"resour",
+				"resourceId"
+			],
+			[
+				"sli",
+				"slidesRoot"
+			],
+			[
+				"slides",
+				"slidesContainer"
+			],
+			[
+				"sc",
+				"scale"
+			],
+			[
+				"exp",
+				"expanderHorizOffset"
+			],
+			[
+				"snap",
+				"snapshots"
+			],
+			[
+				"sel",
+				"selectAll"
+			],
+			[
+				"pho",
+				"phonoAwareness"
+			],
+			[
+				"backg",
+				"background-origin"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"da",
+				"dataByType"
+			],
+			[
+				"str",
+				"strandTypeMap"
+			],
+			[
+				"ireadc",
+				"ireadc	iRead Class"
+			],
+			[
+				"grade",
+				"grade2gradeName"
+			],
+			[
+				"gradeN",
+				"gradeName2int"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"li",
+				"LightGrey"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"seriesBucketFrom",
+				"seriesBucketFromSeriesId"
+			],
+			[
+				"curr",
+				"currentBucket"
+			],
+			[
+				"unse",
+				"unselectable"
+			],
+			[
+				"bucketSel",
+				"bucketSelection"
+			],
+			[
+				"bu",
+				"bucketSelection"
+			],
+			[
+				"arro",
+				"arrow-color"
+			],
+			[
+				"sha",
+				"shadowColors"
+			],
+			[
+				"prim",
+				"primaryColors"
+			],
+			[
+				"au",
+				"default"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"chi",
+				"chicletWidth"
+			],
+			[
+				"part",
+				"partitionNum"
+			],
+			[
+				"Stu",
+				"StudentSeriesOutcomes"
+			],
+			[
+				"buc",
+				"bucket"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"barC",
+				"barColors"
+			],
+			[
+				"Grow",
+				"GrowthLegendView"
+			],
+			[
+				"stud",
+				"students"
+			],
+			[
+				"sch",
+				"schoolYearProgress"
+			],
+			[
+				"scho",
+				"schoolYearProgress"
+			],
+			[
+				"sort",
+				"sortBy"
+			],
+			[
+				"ben",
+				"benchmarkProgressForGrade"
+			],
+			[
+				"clas",
+				"classAnalyticsView"
+			],
+			[
+				"extra",
+				"extraHeadRoom"
+			],
+			[
+				"topicsIn",
+				"topicsInSeriesRange"
+			],
+			[
+				"seri",
+				"seriesNumber"
+			],
+			[
+				"midY",
+				"midYearRanges"
+			],
+			[
+				"mo",
+				"models"
+			],
+			[
+				"cacheab",
+				"cacheableMixin"
+			],
+			[
+				"cacheable",
+				"cacheableClass"
+			],
+			[
+				"Mode",
+				"ModelUtilities"
+			],
+			[
+				"model",
+				"modelOptions"
+			],
+			[
+				"render",
+				"renderResults"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"StudentSe",
+				"StudentSessionHistory"
+			],
+			[
+				"syp",
+				"schoolYearPercentage"
+			],
+			[
+				"numb",
+				"numberOfDeferredTopics"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<!doctype html>\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\"> <![endif]-->\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\"> <![endif]-->\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\"> <!--<![endif]-->\n    <head>\n        <meta charset=\"utf-8\">\n        <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n        <title>intangible industries, llc</title>\n        <meta name=\"description\" content=\"\">\n        <meta name=\"viewport\" content=\"width=device-width\">\n        <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->\n        <!-- build:css(.tmp) styles/main.css -->\n        <link rel=\"stylesheet\" href=\"styles/main.css\">\n        <!-- endbuild -->\n        <!-- build:js scripts/vendor/modernizr.js -->\n        <script src=\"bower_components/modernizr/modernizr.js\"></script>\n        <!-- endbuild -->\n    </head>\n    <body>\n        <!--[if lt IE 10]>\n            <p class=\"browsehappy\">You are using an <strong>outdated</strong> browser. Please <a href=\"http://browsehappy.com/\">upgrade your browser</a> to improve your experience.</p>\n        <![endif]-->\n\n\n        <div class=\"container\">\n            <div class=\"header\">\n                <ul class=\"nav nav-pills pull-right\">\n                    <li class=\"active\"><a href=\"#\">Home</a></li>\n                    <li><a href=\"#\">About</a></li>\n                    <li><a href=\"#\">Contact</a></li>\n                </ul>\n                <h3 class=\"text-muted\">intangible industries, llc</h3>\n            </div>\n\n            <div class=\"jumbotron\">\n                <h1>intangible industries, llc</h1>\n                <p class=\"lead\">not making things since 1992.</p>\n                <p><a class=\"btn btn-lg btn-success\" href=\"#\">(we make software)</a></p>\n            </div>\n\n            <div class=\"row marketing\">\n                <div class=\"col-lg-6\">\n                    <h4>HTML5 Boilerplate</h4>\n                    <p>HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.</p>\n\n                    <h4>Bootstrap</h4>\n                    <p>Sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development.</p>\n\n                    <h4>Modernizr</h4>\n                    <p>Modernizr is an open-source JavaScript library that helps you build the next generation of HTML5 and CSS3-powered websites.</p>\n\n\n                    <h4>RequireJS</h4>\n                    <p>RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.</p>\n\n                </div>\n            </div>\n\n            <div class=\"footer\">\n                <p>♥ from the Yeoman team</p>\n            </div>\n\n        </div>\n\n\n        2\n\n        <!-- build:js scripts/vendor.js -->\n        <!-- bower:js -->\n        <script src=\"bower_components/jquery/jquery.js\"></script>\n        <!-- endbower -->\n        <!-- endbuild -->\n\n        <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->\n        <script>\n            (function(b,o,i,l,e,r){b.GoogleAnalyticsObject=l;b[l]||(b[l]=\n            function(){(b[l].q=b[l].q||[]).push(arguments)});b[l].l=+new Date;\n            e=o.createElement(i);r=o.getElementsByTagName(i)[0];\n            e.src='//www.google-analytics.com/analytics.js';\n            r.parentNode.insertBefore(e,r)}(window,document,'script','ga'));\n            ga('create','UA-XXXXX-X');ga('send','pageview');\n        </script>\n\n        <!-- build:js scripts/main.js -->\n        <script data-main=\"scripts/main\" src=\"bower_components/requirejs/require.js\"></script>\n        <!-- endbuild -->\n</body>\n</html>\n",
+			"file": "app/index.html",
+			"file_size": 3750,
+			"file_write_time": 130229016160000000,
+			"settings":
+			{
+				"buffer_size": 3759,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "we make software:\n\n    experience building consumer-facing products, with emphasis on educational technologies\n    background in AI, machine learning, cognitive science\n\n\n\nselected projects:\n\n    Scholastic Achievement Mananger\n\n    Created the server-side architecture for Scholastic Achievement Manager (SAM), the learning management system and development platform for Scholastic’s Read 180 suite of learning applications. Sales of Read 180 and other \"Powered by SAM\" products have surpassed the $1 billion mark.\n\n    teacher.scholastic.com/products/SAM\n\n\n    Soliloquy Reading Assistant\n    Led or contributed to the development of all aspects of Soliloquy Learning's 2nd to 5th grade reading tutor, which uses speech recognition to track the student’s progress through an e-text.\n\n    www.scilearn.com/products/reading-assistant\n\n\n    \n\n    Fastt Math Next Generation\n\n    Led server-side development on Fastt Math Next Generation, the latest revision of Scholastic's top-selling math fluency product.\n\n    teacher.scholastic.com/math-fact-fluency/fastt-math-next-generation\n\n\n    Pearson SuccessMaker\n\n    Member of the core architectural team on the SuccessMaker suite of learning products from Computer Curriculum Corporation, a division of Pearson Education.\n\n    www.pearsonschool.com\n",
+			"settings":
+			{
+				"buffer_size": 1295,
+				"line_ending": "Unix",
+				"name": "we make software:"
+			}
+		},
+		{
+			"file": ".editorconfig",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: C",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Htmp",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"HtmlP",
+				"HTMLPrettify: Prettify"
+			],
+			[
+				"Package Control: Ca",
+				"Package Control: List Packages"
+			],
+			[
+				"case",
+				"Convert Case: Title Case"
+			],
+			[
+				"Snippet: ir",
+				"Snippet: iRead Class"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 564.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"new Date()",
+			"new Date;",
+			"new Date",
+			"date"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kan/intangible/j-kan.github.io/app/favicon.ico",
+		"/Users/kan/future-scholastic/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/Gruntfile.js",
+		"/Users/kan/future-scholastic/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/modulePrefix.js.fragment",
+		"/Users/kan/future-scholastic/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/moduleSuffix.js.fragment",
+		"/Users/kan/future-scholastic/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/AppRouter.js",
+		"/Users/kan/future-scholastic/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/package.json",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/groupinator/GroupView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/modulePrefix.js.fragment",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/groupinator/GroupSetView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorLessonsView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/groupinator/UngroupedView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/SummaryView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/CurrentStatus.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_software-perf-report.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/jquery.combobox.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/OfflineAssessmentsView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupLessonsView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupSetSummaryView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/GroupModels.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/WeekAtAGlanceView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupSummaryView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/SoftwarePerfReportView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/ScreenerView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GrowthReportView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_base.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/Content.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_lesson.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/direct-instruction-video-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_group-lessons.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_group-lessons-default.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_groupinator_groups.scss",
+		"/Users/kan/intangible/hasketc/main.hs",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/ClassAnalyticsView.js",
+		"/Volumes/seecolon/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/pom.xml",
+		"/Volumes/seecolon/Users/kan/scholastic/craft-dev/samee-iread/scholastic.s44jr-EAR-jboss/pom.xml",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/iread-dashboard.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_planning-space.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-planning-view.html",
+		"/Volumes/seecolon/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/untitled",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/Screener.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_screener.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_report-base.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/iRead.Content.js",
+		"/Users/kan/.bashrc",
+		"/Volumes/seecolon/Users/kan/scholastic/craft-dev/environment/bprops/kan-3x-craft-dev.build",
+		"/Volumes/seecolon/Users/kan/scholastic/craft-dev/slms/scholastic.slms-impl/java/scholastic/slms/organization/SlmsOrganizationManagerImpl.java",
+		"/Volumes/seecolon/Users/kan/scholastic/craft-dev/slms/scholastic.slms-impl/java/scholastic/slms/organization/SlmsOrganizationDA.java",
+		"/Volumes/seecolon/Users/kan/scholastic/craft-dev/slms/scholastic.slms-impl/java/scholastic/slms/organization/SlmsDefaultDistrictCreator.java",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_groupinator-header.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/arkhiv.blah/screener-students.json",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-group-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_groupinator-base.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_groupinator.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/screener-class-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorViewUtilities.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorHeaderView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/Analytics.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorGroupView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/d3.ellipsisText.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/ClassSampleReportView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/blah/blah.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/d3.shrinkToFitText.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-groupinator-header-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-indiv-learning-plan-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/ilp-topic-list-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/IndivLearningPlanView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-software-perf-report-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/VideoPlayerView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/screener-placement.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/screener-dibels.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/blah.misc/docs/groupinator.dot",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/arkhiv.blah/growthmatrix.json",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/Gruntfile.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-test-data-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-screener-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/SortTriangle.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/ClassAnalyticsView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_test-data.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorControlsView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/GroupinatorUngroupedView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/SortTriangle.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/pom.xml",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-impl/pom.xml",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/pom.xml",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/state-machine.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-groupinator-button-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-groupinator-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-reading-groups-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-db-mysql/blah.other/screener-rows.sql",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/Snapshot.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/PlanningView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/TopicsCompletedSnapshotView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/snapshot-topics-completed-this-year-popup.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/snapshot-topic-cycles-popup.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/snapshot-average-use-popup.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/ViewUtilities.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_growth-report.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/student-over-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/spr-alphabet3-performance-view.html",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/ModelUtilities.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/DigitalLessonModel.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_indiv-learning-plan.scss",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models/iReadBaseModel.js",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/Package Control/Main.sublime-menu",
+		"/Users/kan/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/AverageDailyUseSnapshot.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-summary-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass/_modal-popup-box.scss",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/DataSnapshotsView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-groupinator-groups-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/HistoryGeneratorView.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-groupinator-ungrouped-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-group-summary-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates/iread-groupset-summary-view.html",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs/jquery.verticalBarChart.js",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/blah.misc/docs/groupinator-notes.md",
+		"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views/SeriesBucketsView.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.*",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/templates,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/templates,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/libs",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/models",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/js/views",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass,<open folders>",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/instructor-dashboard/web-staticcode/sass",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/web/js/views,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/web/js/models,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/web/js/libs,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/web/sass,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/web/templates",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/js/views,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/js/models,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/js/libs,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/sass,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/templates",
+			"/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/js/views,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/js/models,/Users/kan/scholastic/dashboard/samee-teacher-dashboard-iread/scholastic.iread-dashboard-web/src/main/webapp/js/libs",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"LessonView",
+			"showArticulationVideo",
+			"ArticulationVideoView",
+			"DASHBOARD_ROOT_URL",
+			"REST_DATA_REQUEST_BASE_URL",
+			"topicLessonsDetails",
+			"GroupinatorLessonsView",
+			"topicLessonsDetails",
+			"topicLessons",
+			"topicLessonsDetails",
+			"fetchTopicLessons",
+			"TopicLessonsDetails",
+			"topicLesson",
+			"makeGroupViews",
+			"options",
+			"$el.find",
+			"hasGroups",
+			"GroupLessonDefaultView",
+			"groupLessonDefaultView",
+			"GroupLessonsDefaultView",
+			"GroupLessonsDefault",
+			"_this",
+			"tl",
+			"sortby",
+			"$el.find",
+			"==",
+			"studentSnapshot",
+			"\",        \"",
+			"\",        ",
+			"_fluency\",",
+			"selectedStudent",
+			"classSnapshot",
+			"findByKey",
+			"showWeekAtAGlance",
+			"topicLessonsDetails",
+			"instructionCompletedChangeHandler",
+			"adjustGroupWidth",
+			"parentView",
+			"renderGroupSummaryView",
+			"renderGroupSummaryDefaultView",
+			"renderGroupSummaryView",
+			"GroupSummaryView",
+			"findByKey",
+			"fetchTopicLessons",
+			"topicLessonsDetails",
+			"findByKey",
+			"findBy",
+			"topicLessonsDetails",
+			"findByKey",
+			"lessonsJSON",
+			"topicLessonsDetails",
+			"getChangeTargets",
+			"changeTargetIds",
+			"TopicLessonsDetails",
+			"findByKey",
+			"GroupLessonsView",
+			"findByKey",
+			"GroupinatorLessonsView",
+			"topicLessonsDetails",
+			"renderGroupLessonsViews",
+			"topicLessonsDetails",
+			"findByKey",
+			"classSnapshot",
+			"fetchByKey",
+			"groupLessons",
+			"render",
+			"findByKey",
+			"makeGroupMemberLists",
+			"studentAppEnrollment",
+			"makeGroupMemberLists",
+			"report-column-headers",
+			"background-linear-gradient",
+			"grade",
+			"GrowthView",
+			"renderStudentGrade",
+			"_autocompleteopen",
+			"console.",
+			"iRead",
+			"custom",
+			"history",
+			"grade:selected",
+			"tooltip",
+			"custom-combobox-toggle",
+			"_removeIfInvalid",
+			"log",
+			"tooltip",
+			"_removeIfInvalid",
+			"StudentSelectorView",
+			"_createShowAllButton",
+			"sho",
+			"custom",
+			"combobox",
+			"ui.combobox",
+			"familyContent",
+			"contentModels",
+			"successBooks",
+			"resourceModels",
+			"TopicBooks",
+			"recent",
+			"topicOutcomes",
+			"recentTopics",
+			"StudentRecentTopics",
+			"rounded-tabs",
+			"body-h-margin",
+			"Skills",
+			"TopicWords",
+			"table-box-outline",
+			"report-title-text",
+			"grade2gradeName",
+			"Student",
+			"SoftwarePerfReportView",
+			"FamilyReport",
+			"Screener",
+			"self",
+			"@media",
+			"buckets",
+			"bucket",
+			"\"",
+			"            \"",
+			"\" +",
+			"\"",
+			"lyceaterse0",
+			"createDefaultDistrict",
+			"SlmsDefaultDistrictCreator",
+			"m_SlmsDefaultDistrictCreator",
+			"createDefaultDistrict",
+			"SCHOLASTIC_BRANCH",
+			"relationToGradeLevel"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"getGroupSetDetailModelFromCache",
+			"self",
+			"hideViewElement",
+			"createAllGroupMembersForClassList",
+			"iRead.RESOURCE_BASE_URL %>",
+			"isAccurate",
+			"div",
+			"",
+			"key-width",
+			"'",
+			"SoftwarePerfReportView",
+			"",
+			"..",
+			"seriesFromNumber",
+			"seriesFromSeriesNumber",
+			"collection",
+			"_cache",
+			"<span/><span/>",
+			"       \"",
+			" ",
+			"\"\\1\"",
+			"expandable",
+			"'",
+			"collection",
+			"classSnapshot",
+			"ClassSnapshot",
+			"collection",
+			"classSnapshot",
+			"collection",
+			"model",
+			"collection",
+			"// console.log",
+			"class=\"bucket_\\1\" data-bucket=\"\\1\"",
+			"data-bucket=\"",
+			"/resources/",
+			"value = REQUEST_BASE_URL + \"",
+			"tbody",
+			"StudentOverView",
+			"SsprStudentView",
+			"'",
+			"\"lastname\":\"\\2\", \"firstname\":\"\\1\"",
+			"//     ",
+			"options",
+			"alignment",
+			"}",
+			"'",
+			"settings.fontFamily || ''",
+			"'",
+			"options",
+			"renderBody",
+			"options",
+			"screener",
+			"past",
+			"updateData",
+			"isColumnSortAscendingByDefault",
+			"indexToColumnMapper",
+			"ortColumn",
+			"report-margin",
+			"topicCoordinatesFromTopic",
+			"tabs",
+			"'expanded'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1434,
+								1434
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1295,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								18
+							]
+						],
+						"settings":
+						{
+							"auto_name": "we make software:",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".editorconfig",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.external_command_errors":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 555.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 112.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 112.0
+	},
+	"project": "intangible-web.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"initia",
+				"initialScreenerPlacementBelowGradeLevel"
+			],
+			[
+				"ini",
+				"initialScreenerPlacementBelowGradeLevel"
+			]
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

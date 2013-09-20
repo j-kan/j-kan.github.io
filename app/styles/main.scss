@@ -62,16 +62,15 @@ body {
 }
 
 .jumbotron div {
-    display        : block;
+    display        : inline-block;
     vertical-align : top;
-    min-height     : 130px;
+    max-width      : 60%
 }
 
 .jumbotron img {
-    float          : left;
-    max-width      : 190px;
+    max-width      : 120px;
     margin-bottom  : 20px;
-    margin-right   : 20px;
+    margin-right   : 15px;
     vertical-align : top;
 }
 
@@ -90,6 +89,14 @@ body {
 .marketing a + h3 {
     margin-top: 28px;
 }
+
+@media screen and (min-width: $screen-sm) {
+    img {
+        max-width    : 170px;
+        margin-right : 20px;
+    }
+}
+
 
 /* Responsive: Portrait tablets and up */
 @media screen and (min-width: $screen-tablet) {
@@ -111,5 +118,13 @@ body {
     /* Remove the bottom border on the jumbotron for visual effect */
     .jumbotron {
         border-bottom: 0;
+
+        h1 {
+            font-size : 55px;
+        }
+        img {
+            max-width    : 190px;
+            margin-right : 25px;
+        }
     }
 }

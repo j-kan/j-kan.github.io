@@ -2,6 +2,10 @@ $icon-font-path: "/bower_components/sass-bootstrap/fonts/";
 
 @import 'sass-bootstrap/lib/bootstrap';
 
+$title-color : #999999;
+$text-color  : #676767;
+
+
 .browsehappy {
     margin: 0.2em 0;
     background: #ccc;
@@ -52,13 +56,25 @@ body {
 .row.marketing {
     padding-left  : 30px;
     padding-right : 30px;
+
+    p, li {
+        color: $text-color;
+    }
+
+    a {
+        color : #225292;
+
+        &:hover, &:focus { background-color: #e5e5e5; }
+        &:active         { color:            #60A0ff; }
+    }
 }
 
+
 .jumbotron {
-    text-align: left;
-    border-bottom: 1px solid #e5e5e5;
-    background-color: white;
-    color: #999999;
+    text-align       : left;
+    border-bottom    : 1px solid #e5e5e5;
+    background-color : white;
+    color            : $title-color;
 
     div {
         display        : inline-block;
